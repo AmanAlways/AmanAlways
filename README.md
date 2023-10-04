@@ -1,4 +1,4 @@
-###### Hi there 👋
+##### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently exploring ...
@@ -27,16 +27,31 @@ Also a passionate front-end developer. I thrive on transforming data into beauti
 - 🚀 Data Analytics BootCamp and Learn with Sumit BootCamp for JS and frontend tools
 
 ### 📚 Always Learning
-I'm constantly expanding my knowledge and skills in data analytics and data science. Join me on this exciting journey! 🚀
+
+As a data analyst and front-end developer, I thrive on continuous learning to stay at the forefront of both fields:
+#### Data Analytics:
+- 📊 Exploring advanced statistical techniques to extract deeper insights from data.
+- 🤖 Diving into machine learning algorithms to enhance predictive modelling.
+- 📈 Keeping up with the latest data visualization trends and tools for clearer storytelling.
+
+#### Front-End Development:
+- 💻 Exploring modern JavaScript frameworks like React for enhanced user experiences.
+- 🎨 Delving into UI/UX design principles to create visually appealing and user-friendly web applications.
+<!-- - 📱 Adapting to responsive design and mobile-first development practices for a seamless cross-device experience. -->
+Learning as well as Exploring is not just a hobby but an essential part of my professional journey. Let's keep pushing boundaries and evolving together! 🚀
 
 ### 🌐 **Let's Connect**: 
 Feel free to reach out for collaborations, discussions, or just to geek out about data! 🤓
-If you share my passion for data and front-end development, let's connect and collaborate on exciting projects. Reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-aman-ullah-khan-770100142/)
-📫[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/ImShawon07)
+If you share my passion for data and front-end development, let's connect and collaborate on exciting projects. Reach out via 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-aman-ullah-khan-770100142/)
+and 📫[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/ImShawon07)
 
 Looking forward to connecting with fellow data enthusiasts and creative UI designers! 📈🔍
 
  🚀 **Let's Build**: I'm always up for a new challenge. Feel free to explore my repositories, and let's build something amazing together!
+
+
+
 
 
 
