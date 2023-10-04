@@ -32,7 +32,7 @@ I'm constantly expanding my knowledge and skills in data analytics and data scie
 ### 🌐 **Let's Connect**: 
 Feel free to reach out for collaborations, discussions, or just to geek out about data! 🤓
 If you share my passion for data and front-end development, let's connect and collaborate on exciting projects. Reach out via [LinkedIn](https://www.linkedin.com/in/md-aman-ullah-khan-770100142/)!
-📫[![Facebook](https://www.facebook.com/ImShawon07)!
+📫[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/ImShawon07)
 
 Looking forward to connecting with fellow data enthusiasts and creative UI designers! 📈🔍
 
