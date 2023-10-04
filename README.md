@@ -17,7 +17,7 @@ Also a passionate front-end developer. I thrive on transforming data into beauti
 - Transforming raw data into actionable insights.
 - Crafting compelling data visualizations to tell the data's story.
 - Embracing the power of statistics and machine learning for data-driven decisions.
-- 
+
 💻 **Frontend Developer**: I'm equally at home with HTML, CSS, and JavaScript. I enjoy creating responsive, intuitive web applications that engage users and deliver seamless experiences. 
 
 🌟 **Combining the Best of Both Worlds**: I believe that the synergy between data and frontend development can lead to incredible innovations. Join me on this journey of blending data analytics with captivating user interfaces.
@@ -29,6 +29,7 @@ Also a passionate front-end developer. I thrive on transforming data into beauti
 ### 📚 Always Learning
 
 As a data analyst and front-end developer, I thrive on continuous learning to stay at the forefront of both fields:
+
 #### Data Analytics:
 - 📊 Exploring advanced statistical techniques to extract deeper insights from data.
 - 🤖 Diving into machine learning algorithms to enhance predictive modelling.
