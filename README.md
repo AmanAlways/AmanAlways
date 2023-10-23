@@ -45,9 +45,9 @@ Learning as well as Exploring is not just a hobby but an essential part of my pr
 
 🌐 Exploring the World of Software Testing 🌐
 
-🔧 Tools: Selenium, JIRA (still exploring)
+🔧 Tools: JEST (learning)
 
-📚 Constantly Learning and Sharing QA Insights
+📚 Constantly Exploring and Sharing QA Insights
 
 🌱 Seeking Bugs and Improving Software Quality
 
