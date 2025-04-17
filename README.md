@@ -41,19 +41,10 @@ As a data analyst and front-end developer, I thrive on continuous learning to st
 <!-- - 📱 Adapting to responsive design and mobile-first development practices for a seamless cross-device experience. -->
 Learning as well as Exploring is not just a hobby but an essential part of my professional journey. Let's keep pushing boundaries and evolving together! 🚀
 
-####🔍 Quality Assurance Enthusiast 🧪
-
-🌐 Exploring the World of Software Testing 🌐
-
-🔧 Tools: JEST (learning)
-
-📚 Constantly Exploring and Sharing QA Insights
-
-🌱 Seeking Bugs and Improving Software Quality
 
 ### 🌐 **Let's Connect**: 
-Feel free to reach out for collaborations, discussions, or just to geek out about data! 🤓
-If you share my passion for data and front-end development, let's connect and collaborate on exciting projects. Reach out via 
+Feel free to reach out for collaborations, discussions, or to geek out about data! 🤓
+Let's connect and collaborate on exciting projects if you share my passion for data and front-end development. Reach out via 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-aman-ullah-khan-770100142/)
 and 📫[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/ImShawon07)
 
