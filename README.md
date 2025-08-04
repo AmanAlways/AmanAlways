@@ -9,18 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#I'm Aman, a passionate data enthusiast on a mission to unravel the stories hidden within the data universe. 🌌 
-Also a passionate front-end developer. I thrive on transforming data into beautiful, interactive visualizations while crafting user-friendly web experiences.
+#I'm Aman.A passionate front-end developer. I thrive on transforming data into beautiful, interactive visualisations while crafting user-friendly web experiences.
 
 #### 📊 What I Do
-📊 **Data Enthusiast**: I love diving into datasets, uncovering insights, and making data-driven decisions. Whether it's SQL, Python, or PowerBI, I'm always excited to explore new ways to harness the power of data.
-- Transforming raw data into actionable insights.
-- Crafting compelling data visualizations to tell the data's story.
-- Embracing the power of statistics and machine learning for data-driven decisions.
 
-💻 **Frontend Developer**: I'm equally at home with HTML, CSS, and JavaScript. I enjoy creating responsive, intuitive web applications that engage users and deliver seamless experiences. 
-
-🌟 **Combining the Best of Both Worlds**: I believe that the synergy between data and frontend development can lead to incredible innovations. Join me on this journey of blending data analytics with captivating user interfaces.
+💻 **Frontend Developer**: I'm equally at home with Bootstrap, Tailwind CSS and React. I enjoy creating responsive, intuitive web applications that engage users and deliver seamless experiences. 
 
 ### 🌟 My Journey
 - 🎓 Jahangirnagar University 
@@ -28,18 +21,13 @@ Also a passionate front-end developer. I thrive on transforming data into beauti
 
 ### 📚 Always Learning
 
-As a data analyst and front-end developer, I thrive on continuous learning to stay at the forefront of both fields:
-
-#### Data Analytics:
-- 📊 Exploring advanced statistical techniques to extract deeper insights from data.
-- 🤖 Diving into machine learning algorithms to enhance predictive modelling.
-- 📈 Keeping up with the latest data visualization trends and tools for clearer storytelling.
+As a front-end enthusiast, I thrive on continuous learning to stay at the forefront of both fields:
 
 #### Front-End Development:
 - 💻 Exploring modern JavaScript frameworks like React for enhanced user experiences.
 - 🎨 Delving into UI/UX design principles to create visually appealing and user-friendly web applications.
 <!-- - 📱 Adapting to responsive design and mobile-first development practices for a seamless cross-device experience. -->
-Learning as well as Exploring is not just a hobby but an essential part of my professional journey. Let's keep pushing boundaries and evolving together! 🚀
+Learning as well as exploring is not just a hobby but an essential part of my professional journey. Let's keep pushing boundaries and evolving together! 🚀
 
 
 ### 🌐 **Let's Connect**: 
