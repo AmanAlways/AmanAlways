@@ -1,13 +1,7 @@
 ##### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently exploring ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on front-end development
+- 🌱 I’m currently exploring React
 
 #I'm Aman.A passionate front-end developer. I thrive on transforming data into beautiful, interactive visualisations while crafting user-friendly web experiences.
 
@@ -16,8 +10,8 @@
 💻 **Frontend Developer**: I'm equally at home with Bootstrap, Tailwind CSS and React. I enjoy creating responsive, intuitive web applications that engage users and deliver seamless experiences. 
 
 ### 🌟 My Journey
-- 🎓 Jahangirnagar University 
-- 🚀 Data Analytics BootCamp and Learn with Sumit BootCamp for JS and frontend tools
+- 🎓 Stamford University 
+- 🚀 IT Support, Learn with Sumit BootCamp for JS and frontend tools
 
 ### 📚 Always Learning
 
@@ -36,7 +30,7 @@ Let's connect and collaborate on exciting projects if you share my passion for d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-aman-ullah-khan-770100142/)
 and 📫[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/ImShawon07)
 
-Looking forward to connecting with fellow data enthusiasts and creative UI designers! 📈🔍
+Looking forward to connecting with fellow creative UI designers! 📈🔍
 
  🚀 **Let's Build**: I'm always up for a new challenge. Feel free to explore my repositories, and let's build something amazing together!
 
